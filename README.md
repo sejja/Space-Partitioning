@@ -5,7 +5,7 @@
 
 ### Project Preview
 <img src="assets/showcase.gif" width="900">
-<img src="assets/Showcase2.gif" width="900">
+<img src="assets/showcase2.gif" width="900">
   
 Partitions large levels automatically using octrees.
 
