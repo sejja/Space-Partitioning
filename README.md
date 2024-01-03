@@ -4,8 +4,8 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Project Preview
-<img src="images/showcase.gif" width="900">
-<img src="images/Showcase2.gif" width="900">
+<img src="assets/showcase.gif" width="900">
+<img src="assets/Showcase2.gif" width="900">
   
 Partitions large levels automatically using octrees.
 
